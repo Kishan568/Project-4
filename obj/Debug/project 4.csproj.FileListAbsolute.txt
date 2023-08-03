@@ -1,0 +1,8 @@
+E:\Section 8 project\DSA PROJECT 4\project 4\bin\Debug\project 4.exe.config
+E:\Section 8 project\DSA PROJECT 4\project 4\bin\Debug\project 4.exe
+E:\Section 8 project\DSA PROJECT 4\project 4\bin\Debug\project 4.pdb
+E:\Section 8 project\DSA PROJECT 4\project 4\obj\Debug\project 4.csproj.AssemblyReference.cache
+E:\Section 8 project\DSA PROJECT 4\project 4\obj\Debug\project 4.csproj.SuggestedBindingRedirects.cache
+E:\Section 8 project\DSA PROJECT 4\project 4\obj\Debug\project 4.csproj.CoreCompileInputs.cache
+E:\Section 8 project\DSA PROJECT 4\project 4\obj\Debug\project 4.exe
+E:\Section 8 project\DSA PROJECT 4\project 4\obj\Debug\project 4.pdb
